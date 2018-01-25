@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=make8bitart
+Icon=${SNAP}/meta/gui/icon.png
+Categories=Graphics;2DGraphics;
+Exec=make8bitart
+Terminal=false

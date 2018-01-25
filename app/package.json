@@ -1,0 +1,13 @@
+{
+    "name": "make8bitart",
+    "version": "0.1.0",
+    "main": "./main.js",
+    "scripts": {
+	"start": "electron ."
+    },
+    "build": {
+	"linux": {
+	    "target": ["dir"]
+	}
+    }
+}
